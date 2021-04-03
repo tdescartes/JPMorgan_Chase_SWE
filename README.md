@@ -1,2 +1,2 @@
 # Web_Development
-Web Developmen
+Web Development with HTML, CSS, and Javascript. 
